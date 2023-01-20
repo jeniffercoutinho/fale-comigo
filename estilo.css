@@ -4,8 +4,8 @@ body {
     
     background-color: rgb(255, 188, 223);
     margin: auto;
-    min-width: 280px;
-    max-width: 900px;
+    min-width: 25%;
+    max-width: 100%;
 }
 
 
